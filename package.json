@@ -1,7 +1,7 @@
 {
     "name": "ts-http-methods",
     "version": "0.1.0",
-    "description": "Enum for HTTP methods",
+    "description": "Enum of HTTP methods for TypeScript",
     "type": "module",
     "repository": {
         "type": "git",
